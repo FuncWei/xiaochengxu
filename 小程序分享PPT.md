@@ -1,6 +1,6 @@
 title: 微信小程序
 speaker: 魏广洪
-url: 
+url: https://github.com/FuncWei/xiaochengxu
 transition: slide2
 files: /js/demo.js,/css/demo.css
 theme:moon
